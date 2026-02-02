@@ -1,0 +1,24 @@
+{
+    "Group": "Ev0sMods",
+    "Name": "Ev0sFlinger",
+    "Version": "0.0.1",
+    "Description": "A Hytale plugin template",
+    "Authors": [
+        {
+            "Name": "OfficialEv0",
+            "Email": "ttdanielak@gmail.com",
+            "Url": ""
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.Ev0sMods.Ev0sFlinger.Ev0sFlingerPlugin",
+    "IncludesAssetPack": true
+}
